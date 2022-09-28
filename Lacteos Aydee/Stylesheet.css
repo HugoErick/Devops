@@ -1,0 +1,25 @@
+div {
+    color: blue;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.class1{
+    color: blue;
+}
+
+#para1{
+    color: blue;
+}
+
+div p{
+    text-align: center;
+    color: red;
+}
+
+h1, h2, p{
+    text-align: center;
+    color: red;
+}

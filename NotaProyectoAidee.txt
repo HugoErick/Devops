@@ -1,0 +1,9 @@
+Tuve que cambiar la estructura del proyecto original para poder utilizar el Auth0, 
+ya que al intentar implementarlo me generaba conflicto con las demas paginas, 
+se agrego la api de pokemon para cumplir con el challenge, se utilizo React para poder utlizar
+Auth0 y hacer mas entendible el codigo, no se ha modificado el del servidor por motivo que aun no 
+se ha revisado.   
+
+Librerias utilizadas:
+-axios
+-google-map-react

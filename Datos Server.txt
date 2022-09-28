@@ -1,0 +1,13 @@
+azureuser
+
+Comandos conectado con SSH:
++ sudo apt install nginx
++ cd /var
++ cd www/
++ Entrar en modo super usuario con "sudo su"
++ Cambiar permisos de la carpeta con "chmod 777 html"
+
+En Windows:
++ Descargar winscp y abrirlo
++ Ir a "avanzado" -> "ssh" -> "autentificación" -> "archivo de clave privada" -> buscar la key descargada de vm
++ Colocar ip de la vm -> colocar usuario "azureuser" -> conectar
