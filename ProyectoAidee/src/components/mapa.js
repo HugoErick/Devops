@@ -18,7 +18,7 @@ export const Mapa = () => {
     <main>
     <div style={{ height: '100vh', width: '100%' }}>
       <GoogleMapReact
-        bootstrapURLKeys={{ key: "AIzaSyDZ9EHdMQFRQmmvaUlupWuqG6cMOpB9diM" }}
+        bootstrapURLKeys={{ key: "******************************" }}
         defaultCenter={defaultProps.center}
         defaultZoom={defaultProps.zoom}
       >
